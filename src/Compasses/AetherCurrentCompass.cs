@@ -68,6 +68,7 @@ namespace AetherCompass.Compasses
                 || name == "風脈の泉"
                 || name == "windätherquelle"
                 || name == "vent éthéré"
+                || name == "风脉泉"
                 ;
         }
     }
